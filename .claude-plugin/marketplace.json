@@ -1,0 +1,13 @@
+{
+  "name": "n8n-to-supabase",
+  "owner": {
+    "name": "Kazen"
+  },
+  "plugins": [
+    {
+      "name": "n8n-to-supabase",
+      "source": "./plugins/n8n-to-supabase",
+      "description": "Migrate n8n workflows to Supabase Edge Functions, PostgreSQL tables, secrets, and pg_cron schedules"
+    }
+  ]
+}
