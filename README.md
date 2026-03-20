@@ -14,7 +14,7 @@ Paste your n8n workflow JSON and this skill will:
 ## Install
 
 ```bash
-/plugin marketplace add kazen/n8n-to-supabase
+/plugin marketplace add Kazzx9921/n8n-to-supabase
 /plugin install n8n-to-supabase@n8n-to-supabase
 ```
 
